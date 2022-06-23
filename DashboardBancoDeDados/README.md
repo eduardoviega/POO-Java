@@ -1,8 +1,6 @@
-# Manipulação de Árvores Binárias de Busca
+# CCH - Dashboard Banco
 
-Implementações de árvores binárias de busca para implementar um programa que crie um
-índice remissivo para um determinado texto de entrada.
-
+Implementar uma interface gráfica (dashboard) usando os componentes do pacote javax.swing para exibir informações sobre contas bancárias de um banco fictício.
 #
 
 <br>
